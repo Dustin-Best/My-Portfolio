@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to My Portfolio
 
-You can use the [editor on GitHub](https://github.com/Dustin-Best/Portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+My name id Dustin Best and I am an engineering student at North Carolina State University studying Mechanical engineering.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
