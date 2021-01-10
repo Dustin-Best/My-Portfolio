@@ -1,8 +1,6 @@
 ## Welcome to My Portfolio
-
-My name id Dustin Best and I am an engineering student at North Carolina State University studying Mechanical engineering.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### About Me:
+My name is Dustin Best and I am an engineering student at North Carolina State University studying mechanical engineering. I have experience as an automotive mechanic and in steel fabrication, but am currently interested in systems engineering, advanced manufacturing, and robotics.
 
 ### Markdown
 
