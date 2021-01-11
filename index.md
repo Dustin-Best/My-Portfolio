@@ -15,20 +15,15 @@ Hi, and welcome to my portfolio. Listed below are my projects and contributions 
 
 <br>
 
-<button class="accordion">Section 1</button>
-<div class="panel">
-  <p>Lorem ipsum...</p>
-</div>
-
-<button class="accordion">Section 2</button>
-<div class="panel">
-  <p>Lorem ipsum...</p>
-</div>
-
-<button class="accordion">Section 3</button>
-<div class="panel">
-  <p>Lorem ipsum...</p>
-</div>
+<div class="accordion-container">
+  <div class="ac">
+    <h2 class="ac-header">
+      <button class="ac-trigger">Lorem ipsum dolor sit amet.</button>
+    </h2>
+    <div class="ac-panel">
+      <p class="ac-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+    </div>
+  </div>
 
 ### Projects: 
 ##### Belt Holster for HPA Tank
