@@ -1,7 +1,9 @@
+<link rel='stylesheet' href='style.css' type='text' />
+
 ## Welcome to My Portfolio
 
 <p align="center">
- <img src="https://dustin-best.github.io/My-Portfolio/dusitn.png" alt="Picture of Dustin Best" width="300" height="300"> 
+ <img src="https://dustin-best.github.io/My-Portfolio/dusitn.png" class="ImageBorder" alt="Picture of Dustin Best" width="300" height="300" /> 
 </p>
 
 ### About Me:
