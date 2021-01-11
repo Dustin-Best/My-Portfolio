@@ -1,6 +1,6 @@
 ## Welcome to My Portfolio
  
-<img src="https://dustin-best.github.io/My-Portfolio/dusitn.png" align="left" alt="alt text" width="300" height="300">
+<img src="https://dustin-best.github.io/My-Portfolio/dusitn.png" align="left" alt="alt text" width="300" height="300" HSPACE=”50” VSPACE=”50”>
 
 ### About Me:
 
