@@ -1,35 +1,17 @@
 ## Welcome to My Portfolio
 ### About Me:
-My name is Dustin Best and I am an engineering student at North Carolina State University studying mechanical engineering. I have experience as an automotive mechanic and in steel fabrication, but am currently interested in systems engineering, advanced manufacturing, and robotics.
+My name is Dustin Best and I am an engineering student at North Carolina State University studying mechanical engineering. I have experience as an automotive mechanic and in steel fabrication, but am currently interested in systems engineering, advanced manufacturing, and robotics. 
 
-### Markdown
+### About the Page: 
+Hi, and welcome to my portfolio. Listed below are my projects and contributions to projects. Please feel free message me about any of them. Under that will be my relevant experience and a copy of my resume. Thank you for viewing my page! 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### Projects: 
+##### Belt Holster for HPA Tank
+##### Scraper Mount for 3D Printer
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+### Relevant Experience:
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Dustin-Best/Portfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+##### NASA Community College Aerospace Scholars Onsite Experience  - Fall 2020
+Due to COVID-19 I was unable to actually go to a NASA Research Center as was the programs original intention. It was instead turned into an online experience. There, I worked with a virtually distributed team to
