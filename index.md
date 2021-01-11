@@ -15,6 +15,21 @@ Hi, and welcome to my portfolio. Listed below are my projects and contributions 
 
 <br>
 
+<button class="accordion">Section 1</button>
+<div class="panel">
+  <p>Lorem ipsum...</p>
+</div>
+
+<button class="accordion">Section 2</button>
+<div class="panel">
+  <p>Lorem ipsum...</p>
+</div>
+
+<button class="accordion">Section 3</button>
+<div class="panel">
+  <p>Lorem ipsum...</p>
+</div>
+
 ### Projects: 
 ##### Belt Holster for HPA Tank
 ##### Scraper Mount for 3D Printer 
