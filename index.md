@@ -1,6 +1,8 @@
 ## Welcome to My Portfolio
- 
-<img src="https://dustin-best.github.io/My-Portfolio/dusitn.png" align="left" alt="Picture of Dustin Best" width="300" height="300">
+
+<p align="center">
+ <img src="https://dustin-best.github.io/My-Portfolio/dusitn.png" alt="Picture of Dustin Best" width="300" height="300"> 
+</p>
 
 ### About Me:
 
