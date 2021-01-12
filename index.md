@@ -25,7 +25,8 @@ Hi, and welcome to my portfolio. Listed below are my projects and contributions 
  
  <p> -insert image of final </p>
  
-  #### Why I made this 
+  #### Why I made this
+  
   <p> 
    One of my hobbies is playing airsoft (a game almost exaclty like paintball). 
    To play this game you need an airsoft marker, and my particular marker is powered by High Pressure Air (HPA) stored in a tank. 
@@ -43,6 +44,7 @@ Hi, and welcome to my portfolio. Listed below are my projects and contributions 
  <p> -insert image of final </p>
  
   #### Why I made this 
+  
   <p> 
    For removing 3D prints from the Ender 3's build plate, my most used tool is the scraper that came with the printer. 
    It can get frustrating when I cannot find it and need to use it, as it is with any tool. 
