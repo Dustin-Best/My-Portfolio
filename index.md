@@ -28,11 +28,12 @@ Hi, and welcome to my portfolio. Listed below are my projects and contributions 
   #### Why I made this 
   <p> 
    One of my hobbies is playing airsoft (a game almost exaclty like paintball). 
- To play this game you need an airsoft marker, and my particular marker is powered by High Pressure Air (HPA) stored in a tank. 
- The tank is not attached to the marker and has to be carried by the user, usually in a backpack, and a regulator and airline is attached to the tank and the marker. 
- Having a whole backpack for an HPA tank that is only about 3.5 inches in diameter and 10 inches tall seems like a waste of space and weight. 
- It is also difficult to secure the tank inside of the backpack, and this results in the tank moving around inside the backpack which results in user discomfort and can cause damage to the regulator and line. 
-For these reasons I wanted to create a more secure, lighterweight, and low-profile solution.  
+   To play this game you need an airsoft marker, and my particular marker is powered by High Pressure Air (HPA) stored in a tank. 
+   The tank is not attached to the marker and has to be carried by the user, usually in a backpack, and a regulator and airline is attached to the tank and the marker. 
+   Having a whole backpack for an HPA tank that is only about 3.5 inches in diameter and 10 inches tall seems like a waste of space and weight. 
+   It is also difficult to secure the tank inside of the backpack, and this results in the tank moving around inside the backpack which results in user discomfort and can cause    damage to the regulator and line. 
+   For these reasons I wanted to create a more secure, lighterweight, and low-profile solution. 
+  </p>
 </details>
 
 ## Scraper Mount for 3D Printer
