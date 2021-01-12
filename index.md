@@ -21,13 +21,15 @@ Hi, and welcome to my portfolio. Listed below are my projects and contributions 
 
 ## 3D Printed Belt Holster for HPA Tank
 <details>
-  <summary>Click to expand!</summary>
+  <summary>Learn about this project.</summary>
  
  <p> -insert image of final </p>
  
-  #### Why I made this
+   <p>
+   Why I made this:
   
-  <p> 
+   <br>
+   
    One of my hobbies is playing airsoft (a game almost exaclty like paintball). 
    To play this game you need an airsoft marker, and my particular marker is powered by High Pressure Air (HPA) stored in a tank. 
    The tank is not attached to the marker and has to be carried by the user, usually in a backpack, and a regulator and airline is attached to the tank and the marker. 
@@ -39,13 +41,15 @@ Hi, and welcome to my portfolio. Listed below are my projects and contributions 
 
 ## Scraper Mount for 3D Printer
 <details>
-  <summary>Click to expand!</summary>
+  <summary>Learn about this project.</summary>
  
  <p> -insert image of final </p>
  
-  #### Why I made this 
+  <p>
+   Why I made this:
   
-  <p> 
+   <br>
+   
    For removing 3D prints from the Ender 3's build plate, my most used tool is the scraper that came with the printer. 
    It can get frustrating when I cannot find it and need to use it, as it is with any tool. 
    This tool, however, I use quite frequently and would like to have near the printer at all times. 
