@@ -32,11 +32,23 @@ Hi, and welcome to my portfolio. Listed below are my projects and contributions 
  The tank is not attached to the marker and has to be carried by the user, usually in a backpack, and a regulator and airline is attached to the tank and the marker. 
  Having a whole backpack for an HPA tank that is only about 3.5 inches in diameter and 10 inches tall seems like a waste of space and weight. 
  It is also difficult to secure the tank inside of the backpack, and this results in the tank moving around inside the backpack which results in user discomfort and can cause damage to the regulator and line. 
-For these reasons I wanted to create a more secure, lighterweight, and low-profile solution.
-  
-  
+For these reasons I wanted to create a more secure, lighterweight, and low-profile solution.  
 </details>
 
+## Scraper Mount for 3D Printer
+<details>
+  <summary>Click to expand!</summary>
+ 
+ <p> -insert image of final </p>
+ 
+  #### Why I made this 
+  <p> 
+   For removing 3D prints from the Ender 3's build plate, my most used tool is the scraper that came with the printer. 
+   It can get frustrating when I cannot find it and need to use it, as it is with any tool. 
+   This tool, however, I use quite frequently and would like to have near the printer at all times. 
+   So, I decided to design and build a mount for it that attaches to the printer itself as to keep it at hand whenever needed.
+  </p>
+</details>
 
 <br>
 
