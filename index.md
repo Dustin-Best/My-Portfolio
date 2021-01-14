@@ -1,6 +1,8 @@
 <link rel='stylesheet' href='style.css' type='text' />
 
-# Welcome to My Portfolio
+<h1 align="center">
+Welcome to My Portfolio
+</h1>
 
 <p align="center">
  <img src="https://dustin-best.github.io/My-Portfolio/dusitn.png" class="ImageBorder" alt="Picture of Dustin Best" width="300" height="300" /> 
