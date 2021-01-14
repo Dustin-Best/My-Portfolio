@@ -58,3 +58,12 @@ Hi, and welcome to my portfolio. Listed below are my projects and contributions 
    So, I decided to design and build a mount for it that attaches to the printer itself as to keep it at hand whenever needed.
   </p>
 </details>
+
+<br>
+
+<br>
+
+<p>
+Resume 
+<a href="https://dustin-best.github.io/My-Portfolio/BestD_Resume_S2021.pdf" target="_blank">Here</a>
+</p>
