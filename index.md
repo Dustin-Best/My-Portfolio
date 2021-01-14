@@ -11,7 +11,7 @@
 My name is Dustin Best and I am an engineering student at North Carolina State University studying mechanical engineering. I have experience as an automotive mechanic and in steel fabrication, but am currently interested in systems engineering, advanced manufacturing, and robotics. 
 
 ### About the Page: 
-Hi, and welcome to my portfolio. Listed below are my projects and contributions to projects. Please feel free message me about any of them. Under that will be my relevant experience and a copy of my resume. Thank you for viewing my page! 
+Hi, and welcome to my portfolio. Listed below are my projects and contributions to projects. Please feel free message me about any of them. Under that will be a copy of my resume. Thank you for viewing my page! 
 
 <br>
 
@@ -19,7 +19,7 @@ Hi, and welcome to my portfolio. Listed below are my projects and contributions 
 
 # My Projects
 
-## 3D Printed Belt Holster for HPA Tank
+### 3D Printed Belt Holster for HPA Tank
 <details>
   <summary>Learn about this project.</summary>
  
@@ -39,7 +39,7 @@ Hi, and welcome to my portfolio. Listed below are my projects and contributions 
   </p>
 </details>
 
-## Scraper Mount for 3D Printer
+### Scraper Mount for 3D Printer
 <details>
   <summary>Learn about this project.</summary>
  
@@ -56,12 +56,3 @@ Hi, and welcome to my portfolio. Listed below are my projects and contributions 
    So, I decided to design and build a mount for it that attaches to the printer itself as to keep it at hand whenever needed.
   </p>
 </details>
-
-<br>
-
-<br>
-
-### Relevant Experience:
-
-##### NASA Community College Aerospace Scholars Onsite Experience  - Fall 2020
-Due to COVID-19 I was unable to actually go to a NASA Research Center as was the programs original intention. It was instead turned into an online experience. There, I worked with a virtually distributed team to
