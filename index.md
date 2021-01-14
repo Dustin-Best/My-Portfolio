@@ -13,7 +13,7 @@ Welcome to My Portfolio
 My name is Dustin Best and I am an engineering student at North Carolina State University studying mechanical engineering. I have experience as an automotive mechanic and in steel fabrication, but am currently interested in systems engineering, advanced manufacturing, and robotics. 
 
 ### About the Page: 
-Hi, and welcome to my portfolio. Listed below are my projects and contributions to projects. Please feel free message me about any of them. Under that will be a copy of my resume. Thank you for viewing my page! 
+Hi, and welcome to my portfolio. Listed below are my projects and contributions to projects. Please feel free message me about any of them. Under that will be a copy of my resume (my contact info is on the resume). Thank you for viewing my page! 
 
 <br>
 
