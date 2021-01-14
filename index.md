@@ -67,3 +67,8 @@ Hi, and welcome to my portfolio. Listed below are my projects and contributions 
 Resume 
 <a href="https://dustin-best.github.io/My-Portfolio/BestD_Resume_S2021.pdf" target="_blank">Here</a>
 </p>
+
+<br>
+
+<br>
+
